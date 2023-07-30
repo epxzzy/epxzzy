@@ -1,0 +1,1 @@
+[![ thang ](https://lanyard-profile-readme.vercel.app/api/622702599468220446?theme=dark&bg=130031&animated=true&hideDiscrim=false&borderRadius=0px&idleMessage=either%20sleeping%20or%20offline...)](https://discord.com/users/622702599468220446)
