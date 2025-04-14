@@ -4,4 +4,4 @@
 ### tooling
 [![tools](https://skills-icons.vercel.app/api/icons?i=bash,deno,nodejs,gradle,npm,powershell)](https://skillicons.dev)
 ### others
-[![others](https://skills-icons.vercel.app/api/icons?i=arch,windows,neovim,intellijidea,androidstudio,blender)](https://skillicons.dev)
+[![others](https://skills-icons.vercel.app/api/icons?i=arch,windows,neovim,intellijidea,zed,androidstudio,blender)](https://skillicons.dev)
